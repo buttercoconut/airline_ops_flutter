@@ -1,5 +1,10 @@
 fastapi
-pydantic
 uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+redis
+aio-pika
 pytest
-httpx
+pytest-asyncio
